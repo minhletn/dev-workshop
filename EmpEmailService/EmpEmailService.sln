@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmpEmailService", "EmpEmailService\EmpEmailService.csproj", "{FDF32F8A-D882-488C-8A24-98684E1A7931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEmpEmailService", "TestEmpEmailService\TestEmpEmailService.csproj", "{DAE64637-07A8-4FA8-B94A-4B75B9E30ADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDF32F8A-D882-488C-8A24-98684E1A7931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF32F8A-D882-488C-8A24-98684E1A7931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF32F8A-D882-488C-8A24-98684E1A7931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF32F8A-D882-488C-8A24-98684E1A7931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE64637-07A8-4FA8-B94A-4B75B9E30ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE64637-07A8-4FA8-B94A-4B75B9E30ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE64637-07A8-4FA8-B94A-4B75B9E30ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE64637-07A8-4FA8-B94A-4B75B9E30ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {107A9D9D-1D4D-479E-A16A-B6E33794E05E}
+	EndGlobalSection
+EndGlobal
